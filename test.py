@@ -1,5 +1,5 @@
 import os
-from config import TOKEN_API
+from telegram_secrets import TOKEN_API
 from aiogram import Bot, Dispatcher, executor, types
 
 bot = Bot(TOKEN_API)

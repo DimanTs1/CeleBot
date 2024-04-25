@@ -1,7 +1,7 @@
 import os
 from time import sleep
 from config import PROGRESS_BAR_LEN, ANIMATION_LOADING
-from secrets import TOKEN_API
+from telegram_secrets import TOKEN_API
 from data.aliases import aliases
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import CallbackQuery, InputMediaPhoto, Message

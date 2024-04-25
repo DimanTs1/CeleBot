@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 /data/
 
-secrets.py
+telegram_secrets.py
