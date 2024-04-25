@@ -1,3 +1,3 @@
 # CeleBot
 
-`config.py` в .gitignore не пугаться
+`secrets.py` в .gitignore не пугаться
